@@ -1,0 +1,8 @@
+﻿// To add a new form ( screen ) , Add > Win form
+// Entity code is eventually converted to ADO.NET code behind the scene.
+// Entities class is where all the tables ( entities) are saves, (each as a collection)
+// this class is the connection between the app and DB, 
+also each class is represented by a class, create object from this class , give values to the fields, add this object to it's collection inside the Entities collection,
+then save changes, this is how to add a new row to the database.
+// To set a form as the default ( on the app is opened ) in the program class replace Form1 with it's name
+//To open file dialoge
